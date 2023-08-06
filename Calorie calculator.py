@@ -10,4 +10,4 @@ A=float(input("Enter your age in yrs:"))
 G=input("Specify your gender(Male,Female,Others):")
 
 BMR=basal_metabolic_rate(H,W,A,G)
-print("your BMR value is",BMR + "kcal")
+print("your BMR value is",BMR)
